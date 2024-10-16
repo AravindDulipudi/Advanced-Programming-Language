@@ -1,0 +1,4 @@
+miniplayertest.MiniPlayerGUI$MyDropTarget
+miniplayertest.MiniPlayerGUI$openFileListener
+miniplayertest.MiniPlayerGUI$PlayStopListener
+miniplayertest.MiniPlayerGUI
